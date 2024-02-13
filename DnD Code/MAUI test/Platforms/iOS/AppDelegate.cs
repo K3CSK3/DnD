@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Dice20GUI
+namespace MAUI_test
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

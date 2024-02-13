@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Dice20GUI
+namespace MAUI_test
 {
     public class Program
     {

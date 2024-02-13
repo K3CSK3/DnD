@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Dice20GUI
+namespace MAUI_test
 {
     [Application]
     public class MainApplication : MauiApplication

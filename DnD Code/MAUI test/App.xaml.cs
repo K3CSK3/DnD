@@ -1,4 +1,4 @@
-﻿namespace Dice20GUI
+﻿namespace MAUI_test
 {
     public partial class App : Application
     {

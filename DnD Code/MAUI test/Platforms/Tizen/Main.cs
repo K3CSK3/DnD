@@ -2,7 +2,7 @@ using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 using System;
 
-namespace Dice20GUI
+namespace MAUI_test
 {
     internal class Program : MauiApplication
     {
