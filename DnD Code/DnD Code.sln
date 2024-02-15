@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weighed Dice 20", "Weighed 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUI test", "GUI test\GUI test.csproj", "{5A43246C-1807-41C0-AFD2-934F8ECEC325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUI test", "MAUI test\MAUI test.csproj", "{250C1F7D-615D-49D7-936F-0916BCC1443B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAUI test", "MAUI test\MAUI test.csproj", "{250C1F7D-615D-49D7-936F-0916BCC1443B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
